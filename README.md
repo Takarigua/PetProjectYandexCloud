@@ -187,4 +187,10 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ---------
 ### Резервное копированиеОтвет
 Сделал снэпшот, затем поставил планировщик
+![Снэпшот](https://github.com/Takarigua/PetProjectYandexCloud/blob/0c02229bb03de8242dda733924105765caad6495/Screen/17%D0%A1%D0%BD%D1%8D%D0%BF%D0%94%D0%B8%D1%81%D0%BA%D0%B8.png)
+
+---------
+![СнэпПлан](https://github.com/Takarigua/PetProjectYandexCloud/blob/0c02229bb03de8242dda733924105765caad6495/Screen/18%D0%A1%D0%BD%D1%8D%D0%BF%D0%9F%D0%BB%D0%B0%D0%BD.png)
+
+---------
 
