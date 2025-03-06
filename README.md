@@ -104,7 +104,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
     * [СайтОтвет](#СайтОтвет)
     * [МониторингОтвет](#МониторингОтвет)
     * [ЛогиОтвет](#ЛогиОтвет)
-    * [Сеть](#Сеть)
+    * [СетьОтвет](#СетьОтвет)
     * [Резервное копирование](#Резервное-копирование)
     * [Дополнительно](#Дополнительно)
 * [Выполнение работы](#Выполнение-работы)
@@ -164,5 +164,26 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ![Эластик](https://github.com/Takarigua/PetProjectYandexCloud/blob/aadf34f4d670bac0a753e4bc4815fefb43d753ee/Screen/9%D0%AD%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA.png)
 
 ---------
-![
- 
+![Файлбит](https://github.com/Takarigua/PetProjectYandexCloud/blob/62b8a15abf1a38bddbf85f3c141ae4c779c631e0/Screen/10%D0%A4%D0%B0%D0%B9%D0%BB%D0%B1%D0%B8%D1%82%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3.png)
+
+---------
+![ДанныеЭластик](https://github.com/Takarigua/PetProjectYandexCloud/blob/62b8a15abf1a38bddbf85f3c141ae4c779c631e0/Screen/11%D0%AD%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.png)
+
+---------
+### СетьОтвет
+Ну собственное веселья больше было у меня здесь, что-то не хотело пропускаться, что-то не пинговалось, что-то смотрело не в ту сторону, но по итогу собрал все в кучу и вроде работает, заббикс и эластик сделал чтобы можно было с инета посмотреть на них.
+Вот так по всем отдельно настроил
+![Безопасность](https://github.com/Takarigua/PetProjectYandexCloud/blob/e682b1ab749bec38e6f8fbaf36a79f96a800abfd/Screen/12%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png)
+
+---------
+Пара примеров как это внутри, если требуется
+![Пример1-1](https://github.com/Takarigua/PetProjectYandexCloud/blob/e682b1ab749bec38e6f8fbaf36a79f96a800abfd/Screen/13%D0%A1%D0%B5%D1%82%D1%8C%D0%92%D1%85.png)
+
+---------
+![Пример1-2](https://github.com/Takarigua/PetProjectYandexCloud/blob/e682b1ab749bec38e6f8fbaf36a79f96a800abfd/Screen/14%D0%A1%D0%B5%D1%82%D1%8C%D0%98%D1%81%D1%85.png)
+
+---------
+![Пример2-1](https://github.com/Takarigua/PetProjectYandexCloud/blob/e682b1ab749bec38e6f8fbaf36a79f96a800abfd/Screen/15%D0%A1%D0%B5%D1%82%D1%8C2%D0%92%D1%85.png)
+
+---------
+![Пример2-2](https://github.com/Takarigua/PetProjectYandexCloud/blob/e682b1ab749bec38e6f8fbaf36a79f96a800abfd/Screen/16%D0%A1%D0%B5%D1%82%D1%8C2%D0%98%D1%81%D1%85.png)
